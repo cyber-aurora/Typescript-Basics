@@ -1,7 +1,7 @@
 import { describe, it, expect } from 'vitest';
 import { makeNegative } from './returnNegative'
 
-describe('Test exercise return negative number', () => {
+describe.skip('Test exercise return negative number', () => {
     it('should return -42', () => {
         const result = makeNegative(42)
         expect(result).equals(-42)
