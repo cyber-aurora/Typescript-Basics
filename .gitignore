@@ -1,0 +1,8 @@
+### Base ###
+/node_modules
+
+### VS Code ###
+.vscode/
+
+### MAC OS ###
+.DS_STORE
