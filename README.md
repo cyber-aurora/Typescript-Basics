@@ -34,4 +34,4 @@ $ npx vitest
 ## Objetive
 Learn some typescript fundamentals using testing
 
-PD: Remember, in the test (it) delete skip methode. By default tests are skipped.
+PD: Remember, in the test (it) delete skip methode. By default tests are skipped.# Typescript-Basics
